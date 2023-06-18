@@ -1,0 +1,20 @@
+{
+  "person data": [
+    {
+      "name": "Иван",
+      "surname": "Иванов",
+      "patronymic": "Иванович",
+      "age": "30",
+      "birthplace": "Москва",
+      "phone": "+7 926 766 48 48"
+    },
+    {
+      "name": "Петр",
+      "surname": "Петров",
+      "patronymic": "Петрович",
+      "age": "35",
+      "birthplace": "Санкт-Петербург",
+      "phone": "+7 804 766 51 61"
+    }
+  ]
+}
